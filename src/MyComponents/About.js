@@ -1,5 +1,6 @@
 import React from 'react'
 
+// About
 export const About = () => {
     return (
         <div>
